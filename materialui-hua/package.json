@@ -1,0 +1,74 @@
+{
+  "_from": "materialui-hua",
+  "_id": "materialui-hua@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-/a6z2pbHtd7L2h3Qfln/rWx4Is3XJJh1BlNUPYyit23xLtDYR0VsJJf7vksB61bHFOG9en47Lvc2rLnQtLbU6A==",
+  "_location": "/materialui-hua",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "materialui-hua",
+    "name": "materialui-hua",
+    "escapedName": "materialui-hua",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://srv-pr-tfs-h.hospital.austral:8081/materialui-hua/-/materialui-hua-1.0.0.tgz",
+  "_shasum": "24baf7541acce6298040d94c455bbaa4e3448309",
+  "_spec": "materialui-hua",
+  "_where": "C:\\Users\\luvargas\\source\\repos\\react\\my-app",
+  "author": {
+    "name": "HUA"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@material-ui/core": "^3.6.1",
+    "@material-ui/icons": "^3.0.1"
+  },
+  "deprecated": false,
+  "description": "Customized package for hua de material-ui\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DHUA\u001b[C\u001b[C\u001b[C\u001b[C\u001b[M\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001bUI",
+  "devDependencies": {
+    "@babel/core": "^7.2.0",
+    "@babel/preset-env": "^7.2.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-transform-decorators-legacy": "^1.3.5",
+    "babel-plugin-transform-es2015-arrow-functions": "^6.22.0",
+    "babel-plugin-transform-es2015-destructuring": "^6.23.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "clean-webpack-plugin": "^0.1.19",
+    "html-webpack-plugin": "^3.2.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-hot-loader": "^4.3.3",
+    "url-loader": "^1.1.0",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10",
+    "webpack-hot-middleware": "^2.22.2"
+  },
+  "keywords": [
+    "hua",
+    "material-ui",
+    "materialui-hua"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "materialui-hua",
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --contentBase dist/ --watch --open --hot",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

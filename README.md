@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Cargar paquete de Material UI Customizado
+
+Dentro de la carpeta node_modules debe ubicarse la carpeta materialui-hua<br>
+La misma contiene la extensión de un tema para el core de material ui que se puede aplicar a cualquier objeto<br
+Para ver como se usa revisar los archivos dentro de la carpeta de materialui-hua
+
 ## Available Scripts
 
 In the project directory, you can run:
